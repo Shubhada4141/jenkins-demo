@@ -1,1 +1,1 @@
-print ("good morning bye 1")
+print "good morning bye 1")
