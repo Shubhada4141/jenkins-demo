@@ -1,1 +1,1 @@
-print ("luch break is over")
+print "luch break is over")
