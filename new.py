@@ -1,1 +1,1 @@
-print ("good afternoon ,luch break")
+print ("luch break is over")
