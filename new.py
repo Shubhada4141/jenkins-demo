@@ -1,1 +1,1 @@
-print ("luch break is over")
+print ("study is very IMPORTANT")
